@@ -1,0 +1,3 @@
+training_data/
+*.joblib
+__pycache__/
